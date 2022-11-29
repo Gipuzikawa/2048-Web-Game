@@ -11,11 +11,20 @@ https://gipuzikawa.github.io/Gipuzikawa-2048-Web-Game/
 
 Yeah you can fork this as lon as you credit the tutorial.
 
-# You can help
+# Points For improvement
 
-I am only just starting out on my dev journey and i hope to expand this so i have a few questions.
+I am only just starting out on my dev journey and i hope to expand this.
 
-1. How do I create sliding animations for the tiles because currently i dont have a clue. Please reach out to me through Discord or by forking this rep
+1. I wnat to create sliding animations for the tiles.
+
+2. Make it mobile compatible
+
+3. Add leaderboard
+
+4. Create a website as library for my future projects
+
+
+Please reach out to me through Discord if you can help.
 
 My Discord is Gipuzikawa#8452 (dont ask abt the name xd)
 
