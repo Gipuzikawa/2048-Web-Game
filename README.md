@@ -9,7 +9,7 @@ https://gipuzikawa.github.io/Gipuzikawa-2048-Web-Game/
 
 # Can you fork this
 
-Yeah you can fork this as lon as you credit the tutorial.
+Yeah you can fork this as long as you credit the tutorial.
 
 # Points For improvement
 
